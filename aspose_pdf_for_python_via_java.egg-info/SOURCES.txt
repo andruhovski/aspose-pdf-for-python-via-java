@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+aspose_pdf_for_python_via_java.egg-info/PKG-INFO
+aspose_pdf_for_python_via_java.egg-info/SOURCES.txt
+aspose_pdf_for_python_via_java.egg-info/dependency_links.txt
+aspose_pdf_for_python_via_java.egg-info/requires.txt
+aspose_pdf_for_python_via_java.egg-info/top_level.txt
+asposepdf/__init__.py
+asposepdf/conversion.py
